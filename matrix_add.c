@@ -26,7 +26,7 @@ for(int a =0;a<2;a++)
 {
 for(int c=0;c<3;c++) 
 {
-printf("%d",toplam[a][c]);
+printf("%d",total[a][c]);
 
 }
 printf("\n");
